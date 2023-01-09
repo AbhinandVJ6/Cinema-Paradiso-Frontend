@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useSelector } from 'react-redux';
 import IconLeft from '../assets/img/icon-left.svg';
-import IconRight from '../assets/img/icon-right.svg';
+
 import { getMovies } from '../reducks/movies/selectors';
 import API from '../API';
 import MainImage from '../components/Common/MainImage';

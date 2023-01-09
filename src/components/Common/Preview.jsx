@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import API from '../../API';
 import { useDispatch } from 'react-redux';
-import { push } from 'connected-react-router';
+
 import CloseButtton from '../../assets/img/icon-close.png';
 
 const api = new API();

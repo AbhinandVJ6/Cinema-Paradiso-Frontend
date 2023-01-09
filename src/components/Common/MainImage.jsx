@@ -1,8 +1,6 @@
 import React from 'react';
 import Header from '../Common/Header';
 import ImgBackground from '../../assets/img/Group 2218.png';
-import { borderRadius, height, width } from '@mui/system';
-import { MarginTwoTone } from '@mui/icons-material';
 
 function MainImage() {
     return (
